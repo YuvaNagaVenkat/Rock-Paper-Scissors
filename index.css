@@ -1,0 +1,36 @@
+body{
+  background-color:rgb(25,25,25);
+  color:white;
+  font-family:Arial;
+}
+.css-title{
+  font-size:30px;
+  font-weight:700;
+}
+.css-move-icon{
+  height:50px;
+}
+.css-move-button{
+  background-color:transparent;
+  border:3px solid white;
+  height:120px;
+  width:120px;
+  border-radius:100px;
+  margin-right:10px;
+  cursor:pointer;
+}
+.css-result{
+  margin-top:50px;
+  font-size:25px;
+  font-weight:700;
+}
+.css-score{
+  margin-top:60px;
+}
+.css-reset{
+  background-color: white;
+  font-size:15px;
+  padding:8px 15px;
+  border:none;
+  cursor:pointer;
+}
